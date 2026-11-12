@@ -12,12 +12,12 @@ Former Cell Leader of 29 people across 260 processes at Erwin Hymer Group UK, af
 
 - Line first pass yield from an average of 58% (September 2024 to March 2025) to 92% in July 2025, with individual weeks at 100%
 - 3x3 cross-training: 85 of 86 critical-to-quality SOPs now have three or more trained operators (98.8%), up from 70% in September 2025
-- Co-implemented SafetyCube, an EHS management system, and raised 108 of the 324 reports logged in its first year
+- Co-implemented SafetyQube, an EHS management system, and raised 108 of the 324 reports logged in its first year
 - Line 240 scrap 17.7% under budget, October 2024 to March 2025
 
 ## What I build
 
-27 working tools and dashboards, each a single HTML page that runs in your browser. Gaps are shown, example data is labelled, and every figure names its source.
+29 working tools and dashboards, each a single HTML page that runs in your browser. Gaps are shown, example data is labelled, and every figure names its source.
 
 | Start here | For |
 | --- | --- |
