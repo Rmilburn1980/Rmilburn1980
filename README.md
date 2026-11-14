@@ -27,6 +27,18 @@ Former Cell Leader of 29 people across 260 processes at Erwin Hymer Group UK, af
 | [EHS readiness dashboard](https://rmilburn1980.github.io/ehs-dashboard/) | EHS and Production Supervisor |
 | [Line balancing tool](https://rmilburn1980.github.io/line-balancing.html) | Production |
 
+## AI skills
+
+8 Anthropic Academy certificates, and a working record of using Claude to build and check operations tools: [AI in operations](https://rmilburn1980.github.io/ai-in-operations.html). A person stays responsible for every result.
+
+- Claude 101, Claude Code 101, Claude Platform 101
+- Introduction to Claude Cowork
+- AI Fluency Framework and Foundations, AI Fluency for Small Businesses, Teaching the AI Fluency Framework
+- AI Capabilities and Limitations
+- NEBOSH verified Artificial Intelligence: Application in OSH (Phoenix Health and Safety)
+
+Certificates can be checked on [LinkedIn](https://www.linkedin.com/in/richard-milburn-manufacturing/details/certifications/).
+
 ## Get in touch
 
 [Portfolio](https://rmilburn1980.github.io/) · [LinkedIn](https://linkedin.com/in/richard-milburn-manufacturing) · [Download my CV](https://rmilburn1980.github.io/Richard-Milburn-CV.pdf) · richardm1980@hotmail.co.uk
