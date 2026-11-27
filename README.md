@@ -4,16 +4,30 @@
 
 **Operations, Lean and EHS. I get results by developing people.**
 
-Former Cell Leader of 29 people across 260 processes at Erwin Hymer Group UK, after 21 years in caravan manufacturing. Based in Consett, County Durham, open to Operations Manager, Continuous Improvement, and EHS or Production Supervisor roles in the North East of England.
+**Open to work, available now, North East England:** Operations Manager, Continuous Improvement, and EHS or Production Supervisor roles.
+
+Former Cell Leader of 29 people across 260 processes at Erwin Hymer Group UK, after 21 years in caravan manufacturing. Based in Consett, County Durham.
 
 > "My biggest asset isn't the machinery or the best tools. It's the people on the floor."
 
 ## Results (from my CV and dashboards)
 
-- Line first pass yield from an average of 58% (September 2024 to March 2025) to 92% in July 2025, with individual weeks at 100%
-- 3x3 cross-training: 85 of 86 critical-to-quality SOPs now have three or more trained operators (98.8%), up from 70% in September 2025
-- Co-implemented SafetyQube, an EHS management system, and raised 108 of the 324 reports logged in its first year
+- Line first pass yield from 58% to 92%, with individual weeks at 100%
+- Team skills cover from 36% to 86.6% in two years, across 260 processes
+- Top safety reporter on site: 108 of the 324 reports in the first year of SafetyQube, the EHS management system I co-implemented
 - Line 240 scrap 17.7% under budget, October 2024 to March 2025
+
+Dates and sources for each figure are on the [portfolio](https://rmilburn1980.github.io/).
+
+## Qualifications
+
+- Lean Six Sigma Green Belt (CSSC accredited, July 2026) and Yellow Belt
+- IOSH Managing Safely and IOSH Working Safely
+- NEBOSH General Certificate (studying now)
+- NEBOSH verified Artificial Intelligence: Application in OSH (Phoenix Health and Safety)
+- NVQ Level 2 in Team Leading, Business Improvement Techniques, and Supply Chain Management
+
+Certificates can be checked on [LinkedIn](https://www.linkedin.com/in/richard-milburn-manufacturing/details/certifications/).
 
 ## What I build
 
@@ -29,15 +43,7 @@ Former Cell Leader of 29 people across 260 processes at Erwin Hymer Group UK, af
 
 ## AI skills
 
-8 Anthropic Academy certificates, and a working record of using Claude to build and check operations tools: [AI in operations](https://rmilburn1980.github.io/ai-in-operations.html). A person stays responsible for every result.
-
-- Claude 101, Claude Code 101, Claude Platform 101
-- Introduction to Claude Cowork
-- AI Fluency Framework and Foundations, AI Fluency for Small Businesses, Teaching the AI Fluency Framework
-- AI Capabilities and Limitations
-- NEBOSH verified Artificial Intelligence: Application in OSH (Phoenix Health and Safety)
-
-Certificates can be checked on [LinkedIn](https://www.linkedin.com/in/richard-milburn-manufacturing/details/certifications/).
+8 Anthropic Academy AI courses, and a working record of using Claude to build and check operations tools: [AI in operations](https://rmilburn1980.github.io/ai-in-operations.html). A person stays responsible for every result.
 
 ## Get in touch
 
