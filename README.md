@@ -31,7 +31,7 @@ Certificates can be checked on [LinkedIn](https://www.linkedin.com/in/richard-mi
 
 ## What I build
 
-29 working tools and dashboards, each a single HTML page that runs in your browser. Gaps are shown, example data is labelled, and every figure names its source.
+30 working tools and dashboards, each a single HTML page that runs in your browser. Gaps are shown, example data is labelled, and every figure names its source.
 
 | Start here | For |
 | --- | --- |
